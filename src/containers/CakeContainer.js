@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 
 const CakeContainer = () => {
 
@@ -43,8 +45,6 @@ const CakeContainer = () => {
 }
     ]);
 
-
-
-
-
 }
+
+export default CakeContainer;
