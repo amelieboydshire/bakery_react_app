@@ -1,4 +1,5 @@
 import React from "react";
+import '/Users/amelieboyd-shire/Documents/bnta_work/week_09/day_03/bakery_lab/bellas_bakery/src/App.css';
 
 const Cake = ({ cake }) => {
 
